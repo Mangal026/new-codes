@@ -2,7 +2,7 @@
 
 int main()
 {
- //swapping using overflow
+ //swapping using overwriting and arithematic
  int a,b;
  printf("Enter:A,B:-");
  scanf("%d %d",&a,&b);
